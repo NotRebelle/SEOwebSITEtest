@@ -1,5 +1,3 @@
-Bien sûr, voici comment vous pourriez structurer votre README avec un sommaire et des liens vers chaque section importante :
-
 ### Sommaire
 
 1. [Optimisation des Images](#optimisation-des-images)
