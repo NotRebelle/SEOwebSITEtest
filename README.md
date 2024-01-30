@@ -18,8 +18,6 @@
 
 ### Réduction Imaginaire des Requêtes HTTP
 
-Pour réduire le nombre de requêtes HTTP sur notre site de e-commerce fictif, nous pourrions envisager de combiner plusieurs fichiers CSS et JavaScript en un seul fichier chacun. Voici comment nous pourrions procéder :
-
 1. **Fichiers CSS** : Au lieu d'avoir plusieurs fichiers CSS pour chaque section ou composant du site, nous pourrions les regrouper en un seul fichier. Cela réduirait le nombre de requêtes HTTP nécessaires pour charger les styles, ce qui contribuerait à accélérer le chargement de la page.
 
 2. **Fichiers JavaScript** : De même, au lieu d'avoir plusieurs fichiers JavaScript pour chaque fonctionnalité ou plugin, nous pourrions les combiner en un seul fichier JavaScript. Cela permettrait de réduire les requêtes HTTP nécessaires pour récupérer les scripts, ce qui améliorerait les performances globales du site.
@@ -31,5 +29,3 @@ La consolidation des fichiers CSS et JavaScript présente plusieurs avantages :
 - **Optimisation du chargement initial** : Avec moins de requêtes HTTP à effectuer, le navigateur peut commencer à afficher le contenu de la page plus rapidement, ce qui améliore l'expérience utilisateur.
 
 - **Meilleure gestion des ressources** : En regroupant les fichiers, nous simplifions également la gestion des ressources côté serveur, ce qui peut faciliter les mises à jour et les modifications ultérieures.
-
-En consolidant nos fichiers CSS et JavaScript, nous pouvons donc améliorer les performances de notre site, réduire les temps de chargement et offrir une meilleure expérience utilisateur à nos visiteurs.
