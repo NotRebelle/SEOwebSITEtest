@@ -1,5 +1,3 @@
-Compris, je vais reformater le rapport en conservant les données et les grands points mais en ajustant la mise en page pour le rendre plus lisible et professionnel. Je m'occupe de ça tout de suite.
-
 ---
 
 # Rapport d'Analyse et Recommandations pour InfoTechHub
